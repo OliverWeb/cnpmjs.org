@@ -2,7 +2,7 @@ module.exports = {
     debug: false,
     database: {
         db: 'cnpmjs',     // 数据库名，默认为cnpmjs_test
-        host: '127.0.0.1',    // 服务器地址
+        host: '47.104.64.155',    // 服务器地址
         port: 3306,           // 端口
         username: 'root',     // 用户名
         password: '123456',   // 密码
