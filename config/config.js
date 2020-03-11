@@ -12,6 +12,6 @@ module.exports = {
         admin: 'admin@cnpmjs.org' // 管理员权限
     },
     scopes: ['@vt'], // 私有包必须依附于 scope 下
-    registryHost: '0.0.0.0',   //替换服务器ip
+    registryHost: '47.104.64.155:7001',   //替换服务器ip
     bindingHost: '0.0.0.0'
 };
